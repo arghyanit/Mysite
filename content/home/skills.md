@@ -27,8 +27,8 @@ subtitle = ""
   description = "Programming languages" 
 
 [[feature]]
-  icon = "shell"
-  icon_pack = "custom"
+  icon = "file-code"
+  icon_pack = "far"
   name = "Shell script"
   description = "Programming languages"   
   
@@ -39,8 +39,8 @@ subtitle = ""
   description = "Programming languages"
 
 [[feature]]
-  icon = "root"
-  icon_pack = "custom"
+  icon = "chart-bar"
+  icon_pack = "fas"
   name = "CERN-ROOT"
   description = "Object-oriented programming packages"
 
@@ -51,14 +51,14 @@ subtitle = ""
   description = "Technical computing packages"
 
 [[feature]]
-  icon = "event"
-  icon_pack = "custom"
+  icon = "laptop-code"
+  icon_pack = "fas"
   name = "UrQMD, AMPT, HEIJING, JAM"
   description = "Simulation packages for HIC"
 
 [[feature]]
-  icon = "OS"
-  icon_pack = "custom"
+  icon = "desktop"
+  icon_pack = "fas"
   name = "Linux, macOS, Microsoft Windows"
   description = "Operating system"
 
