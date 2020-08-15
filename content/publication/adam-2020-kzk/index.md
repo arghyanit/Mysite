@@ -1,8 +1,8 @@
 ---
 title: "Beam energy dependence of net-$Łambda$ fluctuations measured by the STAR experiment at RHIC"
 date: 2020-01-01
-publishDate: 2020-08-13T17:52:12.545300Z
-authors: ["Jaroslav Adam", " others"]
+publishDate: 2020-08-15T17:40:24.034706Z
+authors: ["J. Adam", "L. Adamczyk", " ....", "A. Chatterjee", "others [STAR Collaboration]"]
 publication_types: ["2"]
 abstract: ""
 featured: false
