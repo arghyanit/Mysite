@@ -91,7 +91,3 @@ I am a **Postdoctoral Fellow** at the Institute of Particle Physics (IOPP), Cent
 Previously, I had obtained a PhD degree at Homi Bhabha National Institute and my Master's degree in Physics at the National Institute of Technology, Durgapur in India. 
 
 Here you can find information about my education, research, publications, and talks. 
-
-
-Just checking!!!!!
-
