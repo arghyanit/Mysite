@@ -13,11 +13,6 @@
 #  url = "#posts"
 #  weight = 20
 
-[[main]]
-  name = "CV"
-  url = "files/cv.pdf"
-  weight = 20
-
 #[[main]]
 #  name = "Projects"
 #  url = "#projects"
@@ -26,11 +21,16 @@
 [[main]]
   name = "Publications"
   url = "#featured"
-  weight = 40
+  weight = 20
 
 [[main]]
   name = "Talk"
   url = "#talks"
+  weight = 40
+
+[[main]]
+  name = "CV"
+  url = "files/cv.pdf"
   weight = 60
 
 [[main]]
