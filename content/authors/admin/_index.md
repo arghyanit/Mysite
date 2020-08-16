@@ -20,9 +20,9 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
-interests:
+interests: 
+- Quark-gluon plasma and early Universe
 - Heavy-Ion Collisions
-- HIC Phenomenology
 - QCD phase diagram
 - Programming
 
@@ -86,9 +86,9 @@ user_groups:
 
 Welcome to my personal homepage!
 
-I am a **Postdoctoral Fellow** at the Institute of Particle Physics (IOPP), Central China Normal University (CCNU). My research mainly focused on the experimental search of QCD Critical Point and onset of phase transition in high-energy collisions at Relativistic Heavy Ion Collider (RHIC), Brookhaven National Laboratory (BNL), New York. 
+I am a **Postdoctoral Fellow** at the Institute of Particle Physics (IOPP), Central China Normal University (CCNU). My research mainly focuses on the experimental search of QCD Critical Point and onset of phase transition in high-energy collisions at Relativistic Heavy Ion Collider (RHIC), Brookhaven National Laboratory (BNL), New York. 
 
-Previously, I had obtained a PhD degree at Homi Bhabha National Institute and my Master's degree in Physics at the National Institute of Technology, Durgapur in India. 
+I received my PhD degree at Homi Bhabha National Institute and my Master's degree in Physics at the National Institute of Technology, Durgapur in India. 
 
 Here you can find information about my education, research, publications, and talks. 
 
