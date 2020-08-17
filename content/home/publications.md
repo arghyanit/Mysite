@@ -21,8 +21,8 @@ subtitle = ""
   offset = 0
 
   # Page order. Descending (desc) or ascending (asc) date.
-  #order = "desc"
-  order = false
+  order = "desc"
+  #order = false
 
   # Filter posts by a taxonomy term.
   [content.filters]
