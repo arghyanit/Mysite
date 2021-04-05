@@ -5,12 +5,15 @@ title: Nonmonotonic Energy Dependence of Net-Proton Number Fluctuations
 subtitle: ''
 summary: ''
 authors:
-- J. Adam
-- ' others'
+- Joseph Adams
+- Leszek Adamczyk
+- ' ....'
+- Arghya Chatterjee
+- others [STAR Collaboration]
 tags: []
 categories: []
 date: '2021-01-01'
-lastmod: 2021-04-05T20:41:29+05:30
+lastmod: 2021-04-05T21:01:14+05:30
 featured: false
 draft: false
 
@@ -28,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-04-05T15:11:29.326398Z'
+publishDate: '2021-04-05T15:31:13.651520Z'
 publication_types:
 - '2'
 abstract: ''
