@@ -17,13 +17,27 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
 [[experience]]
-  title = "Postdoctoral Fellow"
+  title = "Reserach Assistant Professor"
+  company = "Department of Physics, Warsaw University of Technology"
+  company_url = "https://www.pw.edu.pl/engpw"
+  location = "Warsaw 00-661, Poland"
+  date_start = "2021-10-15"
+  date_end = ""
+  description = """
+  Experimental research on quark-gluon plasma matter created in high energy heavy-ion collisions.
+
+  Funded by WUT-NSCP
+  """
+
+[[experience]]
+  title = "Postdoctoral Research Associate"
   company = "Institute of Particle Physics (IOPP), College of Physical Science and Technology, Central China Normal University"
   company_url = "http://physics.ccnu.edu.cn/"
   location = "Wuhan 430079, China"
   date_start = "2019-07-22"
-  date_end = ""
+  date_end = "2021-07-21"
   description = """
   Experimental research on quark-gluon plasma matter created in high energy heavy-ion collisions.
 
