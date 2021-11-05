@@ -86,7 +86,7 @@ user_groups:
 
 Welcome to my personal homepage!
 
-I am a **Reserach Assistant Professor** at the Department of Physics, [Warsaw University of Technology (WUT)](https://www.pw.edu.pl/engpw). Previously, I worked as a **Postdoctoral Research Associate** at the Institute of Particle Physics (IOPP), [Central China Normal University (CCNU)](http://english.ccnu.edu.cn/index.htm). My research mainly focuses on the experimental search of QCD Critical Point and onset of phase transition in high-energy collisions at Relativistic Heavy Ion Collider (RHIC), [Brookhaven National Laboratory (BNL)](https://www.bnl.gov/rhic/), New York. 
+I am a **Research Assistant Professor** at the Department of Physics, [Warsaw University of Technology (WUT)](https://www.pw.edu.pl/engpw). Previously, I worked as a **Postdoctoral Research Associate** at the Institute of Particle Physics (IOPP), [Central China Normal University (CCNU)](http://english.ccnu.edu.cn/index.htm). My research mainly focuses on the experimental search of QCD Critical Point and onset of phase transition in high-energy collisions at Relativistic Heavy Ion Collider (RHIC), [Brookhaven National Laboratory (BNL)](https://www.bnl.gov/rhic/), New York. 
 
 I received my PhD degree at [Homi Bhabha National Institute (HBNI)](http://www.hbni.ac.in/) and my Master's degree in Physics at the [National Institute of Technology, Durgapur (NITD)](https://nitdgp.ac.in/) in India. 
 
