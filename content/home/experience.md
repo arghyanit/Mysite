@@ -19,12 +19,23 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
+  title = "Assistant Professor"
+  company = "Department of Physics, National Institute of Technology Durgapur"
+  company_url = "https://nitdgp.ac.in/"
+  location = "Durgapur 713209, India"
+  date_start = "2022-08-01"
+  date_end = ""
+  description = """
+  
+  """
+
+[[experience]]
   title = "Reserach Assistant Professor"
   company = "Department of Physics, Warsaw University of Technology"
   company_url = "https://www.pw.edu.pl/engpw"
   location = "Warsaw 00-661, Poland"
-  date_start = "2021-10-15"
-  date_end = ""
+  date_start = "2021-10-17"
+  date_end = "2022-07-18"
   description = """
   Experimental research on quark-gluon plasma matter created in high energy heavy-ion collisions.
 
