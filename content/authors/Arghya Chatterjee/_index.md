@@ -14,8 +14,8 @@ role: PhD, Experimental High Energy Nuclear Physics
 
 # Organizations/Affiliations
 organizations:
-- name: Central China Normal University
-  url: "http://english.ccnu.edu.cn/"
+- name: National Institute of Technology Durgapur
+  url: "https://nitdgp.ac.in/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
